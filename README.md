@@ -37,9 +37,7 @@ BreastCancer_Project_yourName_matricNo/
 │   ├── scaler.pkl                  # Feature scaler
 │   └── feature_names.pkl           # Feature names
 ├── templates/
-│   └── index.html                  # Web interface
-└── static/
-    └── style.css                   # (Optional) Custom styles
+    └── index.html                  # Web interface
 ```
 
 ## 🚀 Installation & Setup
@@ -48,8 +46,8 @@ BreastCancer_Project_yourName_matricNo/
 
 1. **Clone the repository:**
 ```bash
-git clone <your-github-repo-url>
-cd BreastCancer_Project_yourName_matricNo
+git clone (https://github.com/Adeboyin1/BreastCancer_Project_AdeboyinAdeniyi_23CG034021)
+cd BreastCancer_Project_AdeboyinAdeniyi_23CG034021
 ```
 
 2. **Create virtual environment:**
@@ -85,35 +83,6 @@ Open your browser and navigate to `http://localhost:5000`
 - **Precision:** ~98%
 - **Recall:** ~97%
 - **F1-Score:** ~97%
-
-## 🌐 Deployment Instructions
-
-### Option 1: Render.com
-
-1. Create account on [Render.com](https://render.com)
-2. Create new Web Service
-3. Connect your GitHub repository
-4. Configure:
-   - **Build Command:** `pip install -r requirements.txt`
-   - **Start Command:** `gunicorn app:app`
-5. Deploy
-
-### Option 2: PythonAnywhere
-
-1. Create account on [PythonAnywhere.com](https://www.pythonanywhere.com)
-2. Upload your project files
-3. Create a new web app (Flask)
-4. Configure WSGI file
-5. Install requirements from console
-6. Reload web app
-
-### Option 3: Streamlit Cloud
-
-If using Streamlit instead of Flask:
-1. Create account on [Streamlit Cloud](https://streamlit.io/cloud)
-2. Connect GitHub repository
-3. Select main file
-4. Deploy automatically
 
 ## 📝 Usage
 
@@ -157,12 +126,12 @@ If using Streamlit instead of Flask:
 
 ## 📦 Dependencies
 
-- Flask 3.0.0
-- scikit-learn 1.3.2
-- pandas 2.0.3
-- numpy 1.24.3
-- joblib 1.3.2
-- gunicorn 21.2.0 (for deployment)
+- Flask 
+- scikit-learn 
+- pandas 
+- numpy 
+- joblib 
+- gunicorn (for deployment)
 
 ## 🤝 Contributing
 
@@ -174,14 +143,14 @@ This project is for educational use only.
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-**Matric Number:** [Your Matric Number]  
+**Adeniyi Adeboyin Toluwalope**  
+**Matric Number:** 23CG034021
 **Course:** Machine Learning Project  
 **Submission Date:** January 22, 2026
 
 ## 🔗 Links
 
-- **GitHub Repository:** [Your GitHub URL]
+- **GitHub Repository:** https://github.com/Adeboyin1/BreastCancer_Project_AdeboyinAdeniyi_23CG034021
 - **Live Application:** [Your Deployment URL]
 
 ## 📧 Contact
