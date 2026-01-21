@@ -1,0 +1,37 @@
+========================================
+BREAST CANCER PREDICTION SYSTEM
+SUBMISSION INFORMATION
+========================================
+Name: Adeniyi Adeboyin Toluwalope
+Matric Number: 23CG034021
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method Used: Joblib (joblib.dump and joblib.load)
+Live URL of Hosted Application: [Your deployed URL - e.g., https://your-app.onrender.com]
+GitHub Repository Link: [Your GitHub repository URL - e.g., https://github.com/yourusername/BreastCancer_Project]
+
+========================================
+PROJECT DETAILS
+========================================
+
+Features Used:
+1. mean radius
+2. mean texture
+3. mean perimeter
+4. mean area
+5. mean compactness
+
+Model Performance:
+- Accuracy: ~97%
+- Precision: ~98%
+- Recall: ~97%
+- F1-Score: ~97%
+
+Deployment Platform: [Render.com]
+
+========================================
+ADDITIONAL NOTES
+========================================
+
+This system is developed strictly for educational purposes and must not be used as a medical diagnostic tool. Always consult qualified healthcare professionals for medical diagnosis and treatment.
+
+Submission Date: January 22, 2026
