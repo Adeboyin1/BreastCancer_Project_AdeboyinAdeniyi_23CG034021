@@ -6,8 +6,8 @@ Name: Adeniyi Adeboyin Toluwalope
 Matric Number: 23CG034021
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method Used: Joblib (joblib.dump and joblib.load)
-Live URL of Hosted Application: [Your deployed URL - e.g., https://your-app.onrender.com]
-GitHub Repository Link: [Your GitHub repository URL - e.g., https://github.com/yourusername/BreastCancer_Project]
+Live URL of Hosted Application:  https://breastcancer-project-adeboyinadeniyi.onrender.com
+GitHub Repository Link: https://github.com/Adeboyin1/BreastCancer_Project_AdeboyinAdeniyi_23CG034021
 
 ========================================
 PROJECT DETAILS
